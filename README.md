@@ -5,4 +5,5 @@ A beginner Python project where the user tries to guess a random number between 
 ## How to Run
 
 ```bash
+Make sure you have Python installed. Then run:
 Number Guessing Game.py
